@@ -11,7 +11,7 @@ header {
 }
 
 header > h1 {
-    background-color: #292C34;
+    background-color: grey;
     padding: 20px;
     font-family: Asap, sans-serif;
 }
